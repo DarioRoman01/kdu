@@ -1,0 +1,29 @@
+diagrama base de datos:
+https://dbdocs.io/darioroman2001/kdu_database?view=relationships
+
+diagrama hecho progreso proyecto:
+https://dbdocs.io/darioroman2001/fact_project_progress
+
+diagrama: hecho demora proyecto
+https://dbdocs.io/darioroman2001/fact_project_delays
+
+diagrama: hecho ventas
+https://dbdocs.io/darioroman2001/fact_sales
+
+diagrama: hecho funcionalidades desarrolladas
+https://dbdocs.io/darioroman2001/fact_developed_functionalities
+
+diagrama: hecho tiempo gastado en funcionalidades
+https://dbdocs.io/darioroman2001/fact_time_spent_in_functionalities
+
+diagrama: hecho revision resultados
+https://dbdocs.io/darioroman2001/fact_performance_review
+
+diagrama: hecho perdidas profit
+https://dbdocs.io/darioroman2001/fact_profit_loss
+
+diagrama: hecho tickets de soporte creados
+https://dbdocs.io/darioroman2001/fact_created_support_tickets
+
+diagrama: hecho caidas de sistema
+https://dbdocs.io/darioroman2001/fact_system_downtime
